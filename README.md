@@ -1,2 +1,2 @@
-# C35V2-DONE
-Práctica de C35 completa
+# Movimiento asincrónico de la pelota
+Boiler plate para la pelota con movimiento asincrónico
